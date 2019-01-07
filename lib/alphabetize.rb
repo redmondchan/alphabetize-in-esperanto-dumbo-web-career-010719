@@ -5,3 +5,4 @@ def alphabetize(arr)
     esp_alphabet.index(letter)
   end
 end
+end
